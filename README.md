@@ -9,6 +9,7 @@ this code is a basic platform to implement uart protocol with gui.
 # prerequest:
 
 linux (recommended).
+
 QT creator.
 
 # usage :
